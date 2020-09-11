@@ -1,3 +1,7 @@
+/*
+	NAME: Chukwudi Ikem
+	CLASS: CPSC 351 - Operating Systems
+*/
 #include <sys/types.h>
 #include <stdio.h>
 #include <unistd.h>
